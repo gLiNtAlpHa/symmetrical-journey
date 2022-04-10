@@ -2,9 +2,9 @@ import { sessionService } from "redux-react-session";
 import axios from "axios";
 
 //keeping the remote endpoint around
-//const remoteUrl = "https://voltency.herokuapp.com/";
-const localUrl = "http://localhost:5000/";
-const currentUrl = localUrl;
+const remoteUrl = "https://voltency.herokuapp.com/";
+//const localUrl = "http://localhost:5000/";
+const currentUrl = remoteUrl;
 
 export const loginUser = (
   credentials,
