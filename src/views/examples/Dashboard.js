@@ -13,6 +13,7 @@ import Avi from "assets/img/theme/volt.png";
 
 // React router
 import { useHistory } from "react-router-dom";
+import { StyledContainer } from "components/Styles";
 
 //auth & redux
 import { connect } from "react-redux";
