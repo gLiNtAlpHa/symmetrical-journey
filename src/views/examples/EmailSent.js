@@ -13,6 +13,7 @@ import Avi from "assets/img/theme/volt.png";
 
 // React router
 import { useParams } from "react-router-dom";
+import { StyledContainer } from "components/Styles";
 
 const EmailSent = () => {
   const { userEmail } = useParams();
