@@ -54,11 +54,7 @@ class Landing extends React.Component {
                 <span />
                 <span />
               </div>
-<AdSense.Google
-      client='ca-pub-4198852474010352'
-      slot = '9700430239'
-    
-    />
+
               <Container className="py-lg-md d-flex">
                 <div className="col px-0">
                   <Row>
@@ -101,6 +97,11 @@ class Landing extends React.Component {
                   </Row>
                 </div>
               </Container>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
               {/* SVG separator */}
               <div className="separator separator-bottom separator-skew">
                 <svg
@@ -153,6 +154,11 @@ class Landing extends React.Component {
                         </CardBody>
                       </Card>
                     </Col>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
                     <Col lg="4">
                       <Card className="card-lift--hover shadow border-0">
                         <CardBody className="py-5">
@@ -184,6 +190,11 @@ class Landing extends React.Component {
                         </CardBody>
                       </Card>
                     </Col>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
                     <Col lg="4">
                       <Card className="card-lift--hover shadow border-0">
                         <CardBody className="py-5">
@@ -217,6 +228,11 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
           <section className="section section-lg">
             <Container>
               <Row className="row-grid align-items-center">
@@ -244,6 +260,11 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
+                         <AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
           <section className="section bg-secondary">
             <Container>
               <Row className="row-grid align-items-center">
@@ -278,6 +299,11 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
           <section className="section pb-0 bg-gradient-warning">
             <Container>
               <Row className="row-grid align-items-center">
@@ -326,6 +352,11 @@ class Landing extends React.Component {
                       </div>
                     </CardBody>
                   </Card>
+                           <AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
                   <Card className="shadow shadow-lg--hover mt-5">
                     <CardBody>
                       <div className="d-flex px-3">
@@ -396,6 +427,11 @@ class Landing extends React.Component {
                     </div>
                   </div>
                 </Col>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
                 <Col className="mb-5 mb-lg-0" lg="3" md="6">
                   <div className="px-4">
                     <img
@@ -501,6 +537,11 @@ class Landing extends React.Component {
               </Row>
               
             </Container>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
             {/* SVG separator */}
             <div className="separator separator-bottom separator-skew zindex-100">
               <svg
