@@ -25,6 +25,7 @@ import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import CardsFooter from "components/Footers/CardsFooter.js";
 import Download from "../IndexSections/Download.js";
 import { Link } from "react-router-dom";
+import AdSense from 'react-adsense';
 
 
 class Landing extends React.Component {
@@ -53,6 +54,11 @@ class Landing extends React.Component {
                 <span />
                 <span />
               </div>
+<AdSense.Google
+      client='ca-pub-4198852474010352'
+      slot = '9700430239'
+    
+    />
               <Container className="py-lg-md d-flex">
                 <div className="col px-0">
                   <Row>
